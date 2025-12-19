@@ -1,0 +1,14 @@
+{
+    "name": "@cart/gateway-session-tests",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "e2e": "tsx e2e-settlement.ts"
+    },
+    "devDependencies": {
+        "@coral-xyz/anchor": "^0.31.1",
+        "@solana/web3.js": "^1.95.4",
+        "tsx": "^4.19.2",
+        "typescript": "^5.7.2"
+    }
+}
